@@ -1,7 +1,0 @@
-{
-  "routes": [
-    { "pattern": "/*", "zone_name": "your-domain.pages.dev" }
-  ],
-  "include_local": false,
-  "exclude": []
-}
